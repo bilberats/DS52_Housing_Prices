@@ -40,10 +40,6 @@ Train your models using the model_training.ipynb notebook. Experiment with diffe
 ## 5.Model Evaluation
 Evaluate your models using the model_evaluation.ipynb notebook. Ensure that your models generalize well to unseen data.
 
-Acknowledgments
+## Acknowledgments
 The Ames Housing dataset was compiled by Dean De Cock for use in data science education. Special thanks to Kaggle for hosting this competition and providing a platform for data science enthusiasts to learn and grow.
 
-Contact
-For any questions or suggestions, please open an issue or contact the repository owner.
-
-Happy coding and good luck with your predictions!
